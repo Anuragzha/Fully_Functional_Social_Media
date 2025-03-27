@@ -3,13 +3,19 @@ AnuLink – A Next-Gen Social Media Platform
 AnuLink is a futuristic social media platform designed to enhance digital interaction. It provides users with a seamless experience to create accounts, share posts, follow other users, engage with content, and receive smart follow suggestions. With a modern design and powerful backend, AnuLink brings a fresh perspective to online social networking.
 Key Features:
 
-✅ User Authentication – Secure login and signup system.
-✅ Post Creation & Media Upload – Share thoughts, images, and videos.
-✅ Follow System – Connect with other users by following them.
-✅ Interactive Feed – Personalized posts from followed accounts.
-✅ Like & Comment System – Engage with posts dynamically.
-✅ Follow Suggestions – Smart recommendations for new connections.
-✅ Admin Panel – Manage users and content easily.
+    ✅ User Authentication – Secure login and signup system.
+
+    ✅ Post Creation & Media Upload – Share thoughts, images, and videos.
+
+    ✅ Follow System – Connect with other users by following them.
+
+    ✅ Interactive Feed – Personalized posts from followed accounts.
+
+    ✅ Like & Comment System – Engage with posts dynamically.
+
+    ✅ Follow Suggestions – Smart recommendations for new connections.
+
+    ✅ Admin Panel – Manage users and content easily.
 
 Technology Stack:
 
